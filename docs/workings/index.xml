@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workings on RentEasy</title>
+    <link>http://inside.renteasy.us/workings/</link>
+    <description>Recent content in Workings on RentEasy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://inside.renteasy.us/workings/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Our Company</title>
+      <link>http://inside.renteasy.us/workings/our-company/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://inside.renteasy.us/workings/our-company/</guid>
+      <description>RentEasy is an open company. The default visibility of our companies information is open, with the blinds only being closed where it&amp;rsquo;s required.
+ Trust is the foundation of the economy. The law establishes a minimum baseline of trustworthiness, and the status quo for companies is to operate near this baseline. What if we tried to maximize trust?
+From: https://www.opencompany.org/about/
+ RentEasy&amp;rsquo;s goal is to provide tenants and landlords with amazing tools to help them keep renting.</description>
+    </item>
+    
+  </channel>
+</rss>

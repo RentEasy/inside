@@ -4,6 +4,8 @@ title = "RentEasy"
 
 theme = "renteasy"
 
+publishDir = "docs"
+
 [menu]
   [[menu.main]]
     identifier = "workings"

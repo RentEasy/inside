@@ -1,0 +1,11 @@
+baseURL = "http://inside.renteasy.us/"
+languageCode = "en-us"
+title = "RentEasy"
+
+theme = "renteasy"
+
+[menu]
+  [[menu.main]]
+    identifier = "workings"
+    name = "workings"
+    url = "/categories/workings/"
